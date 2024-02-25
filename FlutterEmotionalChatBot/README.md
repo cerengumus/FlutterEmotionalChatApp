@@ -1,4 +1,4 @@
-# network_layer
+# Emotional Chat APP
 
 A new Flutter project.
 
